@@ -1,7 +1,7 @@
 package plugin
 
 import (
-	"nats-source/tickers"
+	"github.com/viveksatasiya/sensorbee-source/tickers"
 
 	"gopkg.in/sensorbee/sensorbee.v0/bql"
 )
